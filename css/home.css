@@ -1,0 +1,15 @@
+body
+{
+    color: #11c09d;
+    background-color: #24353F;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.shadow-
+{
+    
+    width: 65%;
+    box-shadow: 0px 5px 10px rgba( 0 , 0 , 0 , 0.9 ) !important;
+    display: flex;
+    justify-content: center;
+}
+
